@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class FileCopyUtility {
+public class aryan {
     public static void main(String[] args) {
         String sourceFile = "source.txt";
         String destinationFile = "destination.txt";
